@@ -9,3 +9,7 @@ var myVar = "Hello, everynyan! How are you? Fine, thank you. I wish I were a bir
 ```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+- [x] Turn on GitHub Pages
+- [ ] Figure Out What I'm Doing
+- [ ] Introduce myself to the world
